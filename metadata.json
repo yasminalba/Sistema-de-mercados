@@ -1,0 +1,6 @@
+{
+  "name": "Supermercado Gestão - Estoque e Vendas",
+  "description": "Sistema completo de gestão de supermercados com controle de estoque, ponto de vendas e dashboard de relatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
